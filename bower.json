@@ -1,0 +1,6 @@
+{
+  "name": "firstApp",
+  "dependencies": {
+    "jquery": "1.11"
+  }
+}
